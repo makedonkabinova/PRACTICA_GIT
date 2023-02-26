@@ -1,2 +1,2 @@
-Scott Chacon and Ben Straub. ProGit. Press.
-Ryan Hodson. Ry's Git Tutorial. Smash Words (2014)
+Chacon, S. and Straub, B. Pro Git. Press.
+Loeliger, J. and McCullough, M. Version control with Git. O'Reilly.
